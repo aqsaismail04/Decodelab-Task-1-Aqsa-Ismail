@@ -105,5 +105,7 @@ Decodelabs-Task-1-Aqsa-Ismail/
 ## 👩‍💻 Author
 
 **Aqsa Ismail**
-CS Student @ University of Central Punjab, Lahore
-🔗 [GitHub](https://github.com/aqsaismail04) | [LinkedIn](https://linkedin.com/in/aqsaismail04)
+CS Student 
+ @University of Central Punjab, Lahore
+🔗 [GitHub](https://github.com/aqsaismail04) 
+🔗 [LinkedIn](https://linkedin.com/in/aqsaismail04)
