@@ -103,5 +103,7 @@ Project-1/
 
 Aqsa Ismail
 DecodeLabs Python Intern — Batch 2026
+
 GitHub: https://github.com/aqsaismail04
+
 LinkedIn: https://linkedin.com/in/aqsaismail04
