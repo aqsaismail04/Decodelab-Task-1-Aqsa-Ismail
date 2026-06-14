@@ -12,9 +12,9 @@ A Python command-line To-Do List application with persistent task management usi
 
 Built as **Task 1** of my **DecodeLabs Internship (Batch 2026)**.
 
-Add tasks, save them permanently, and view them anytime — even after restarting the program. No database needed, just clean Python file handling.
+DecodeLabs is a virtual internship program that provides students with hands-on, real-world projects to build practical development skills. This internship focuses on Python programming — from core concepts to building functional applications.
 
----
+Add tasks, save them permanently, and view them anytime — even after restarting the program. No database needed, just clean Python file handling.
 
 ## 🚀 Features
 
@@ -96,10 +96,13 @@ Decodelabs-Task-1-Aqsa-Ismail/
 
 ## 💡 What I Learned
 
-- How to store data permanently using text files in Python
-- Writing clean, beginner-friendly code with proper structure
-- Handling edge cases like missing files without crashing
+During this internship task, I gained hands-on experience with:
 
+- Storing data permanently using text files in Python
+- Writing clean, structured code with proper exception handling
+- Building a functional menu-driven console application from scratch
+- Thinking like a developer — handling edge cases gracefully
+  
 ---
 
 ## 👩‍💻 Author
