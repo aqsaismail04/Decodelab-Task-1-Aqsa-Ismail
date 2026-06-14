@@ -27,9 +27,36 @@ Add tasks, save them permanently, and view them anytime — even after restartin
 
 ---
 
-## 📸 Demo
+## 💻 Output
 
-![To-Do List Demo](screenshot.png)
+```
+====================================
+       TO-DO LIST APPLICATION
+====================================
+
+========== MENU ==========
+1. Add Task
+2. View Tasks
+3. Quit
+==========================
+Enter your choice (1/2/3): 1
+
+---------- ADD TASK ----------
+Enter a new task: Complete Python Assignment
+✓ Task added successfully!
+
+========== MENU ==========
+1. Add Task
+2. View Tasks
+3. Quit
+==========================
+Enter your choice (1/2/3): 2
+
+---------- TASK LIST ----------
+1. PYTHON
+2. c++ java python
+3. Complete Python Assignment
+```
 
 ---
 
@@ -46,15 +73,14 @@ python main.py
 ---
 
 ## 📂 Project Structure
+
+```
 Decodelabs-Task-1-Aqsa-Ismail/
-
 │
-
 ├── main.py        # Main application file
-
 ├── tasks.txt      # Auto-generated task storage file
-
 └── README.md
+```
 
 ---
 
