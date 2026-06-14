@@ -1,13 +1,18 @@
 # Decodelabs-Task-1-Aqsa-Ismail
-📝 A Python command-line To-Do List application with persistent task management using file handling. ✅💾
+
+![DecodeLabs](https://img.shields.io/badge/DecodeLabs-Intern%202026-blue)
+![Python](https://img.shields.io/badge/Python-3.x-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+A Python command-line To-Do List application with persistent task management using file handling.
 
 ---
 
-## 📌 Project Overview
+## 📌 Overview
 
-This is a simple Python console application built as **Task 1** of my **DecodeLabs Internship (Batch 2026)**.
+Built as **Task 1** of my **DecodeLabs Internship (Batch 2026)**.
 
-The app lets users add tasks, save them permanently to a file, and view them anytime — even after restarting the program.
+Add tasks, save them permanently, and view them anytime — even after restarting the program. No database needed, just clean Python file handling.
 
 ---
 
@@ -15,19 +20,28 @@ The app lets users add tasks, save them permanently to a file, and view them any
 
 - ➕ Add new tasks
 - 📜 View all saved tasks
-- 💾 Persistent storage using file handling
-- 🔄 Automatically loads previous tasks on startup
-- ⚠️ Handles missing file gracefully (no crash on first run)
-- 🧩 Clean, beginner-friendly code with clear structure
+- 💾 Tasks saved permanently to a file
+- 🔄 Loads previous tasks automatically on startup
+- ⚠️ Handles missing file gracefully on first run
+- 🧩 Clean menu-driven interface
 
 ---
 
-## 🛠️ Technologies Used
+## 📸 Demo
 
-- Python 3
-- File Handling (`open`, `read`, `write`, `append`)
-- Lists, Loops, Functions
-- Exception Handling (`try/except`)
+![To-Do List Demo](screenshot.png)
+
+---
+
+## ⚙️ How to Run
+
+> Make sure Python 3 is installed on your system.
+
+```bash
+git clone https://github.com/aqsaismail04/Decodelabs-Task-1-Aqsa-Ismail.git
+cd Decodelabs-Task-1-Aqsa-Ismail
+python main.py
+```
 
 ---
 
@@ -36,83 +50,34 @@ Decodelabs-Task-1-Aqsa-Ismail/
 
 │
 
-├── main.py
+├── main.py        # Main application file
 
-├── tasks.txt
+├── tasks.txt      # Auto-generated task storage file
 
 └── README.md
 
 ---
 
-## ⚙️ How to Run
-
-**1️⃣ Clone the repository**
-```bash
-git clone https://github.com/aqsaismail04/Decodelabs-Task-1-Aqsa-Ismail.git
-```
-
-**2️⃣ Go to the project folder**
-```bash
-cd Decodelabs-Task-1-Aqsa-Ismail
-```
-
-**3️⃣ Run the program**
-```bash
-python main.py
-```
-
----
-
-## 💻 Sample Output
-===== Welcome to My To-Do List =====
-Menu
-
-Add Task
-View Tasks
-Quit
-
-Enter your choice (1/2/3): 1
-
-Enter a new task: Submit internship project
-
-Task added successfully!
-
-Menu
-
-Add Task
-View Tasks
-Quit
-
-Enter your choice (1/2/3): 2
-
-Your Tasks:
-
-Submit internship project
-
-
----
-
 ## 🧠 Concepts Practiced
 
-- Python Functions
-- Lists & Loops
 - File Reading & Writing
 - Exception Handling
+- Lists & Loops
 - Menu-Driven Programming
 - Data Persistence
 
 ---
 
-## 🎯 About This Task
+## 💡 What I Learned
 
-This project was built as part of the **DecodeLabs Internship Program (Batch 2026)**.  
-The goal was to create a practical console app using core Python concepts — especially file handling for persistent data storage.
+- How to store data permanently using text files in Python
+- Writing clean, beginner-friendly code with proper structure
+- Handling edge cases like missing files without crashing
 
 ---
 
 ## 👩‍💻 Author
 
-**Aqsa Ismail**  
-CS Student @ University of Central Punjab, Lahore  
-🔗 [GitHub](https://github.com/aqsaismail04) 
-🔗 [LinkedIn](https://linkedin.com/in/aqsaismail04)
+**Aqsa Ismail**
+CS Student @ University of Central Punjab, Lahore
+🔗 [GitHub](https://github.com/aqsaismail04) | [LinkedIn](https://linkedin.com/in/aqsaismail04)
